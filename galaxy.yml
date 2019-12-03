@@ -16,13 +16,8 @@
 
 - name: mailhog
   src: geerlingguy.mailhog
-<<<<<<< HEAD:requirements.yml
-  version: 2.1.3
+  version: 2.1.4
 
 - name: bedrock-site-protect
   src: louim.bedrock-site-protect
   version: 2.0.0
-  
-=======
-  version: 2.1.4
->>>>>>> 4fa593fe83f7413255178f372fcc44a3e1dabdb5:galaxy.yml
